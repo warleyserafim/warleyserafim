@@ -1,7 +1,7 @@
 ### Olá! Eu sou Warley Serafim 👋
 <br/>
 
-![Warley Serafim GitHub stats](https://github-readme-stats.vercel.app/api?username=warleyserafim&show_icons=true&theme=merko)
+![Warley Serafim GitHub stats](https://github-readme-stats.vercel.app/api?username=warleyserafim&show_icons=true&theme=chartreuse-dark)
 
 ## Tecnologias que eu uso no meu dia
 
