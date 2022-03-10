@@ -19,6 +19,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warleyserafim&layout=compact)](https://github.com/warleyserafim/github-readme-stats)
 
+![snake gif](https://github.com/warleyserafim/warleyserafim/blob/output/github-contribution-grid-snake.svg)
+
 ## Contatos
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/warley-serafim-de-almeida-b78412215)
