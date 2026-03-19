@@ -32,18 +32,6 @@
 
 ## 🚀 Sobre mim
 
-```yaml
-name: Warley Serafim
-role: Salesforce Developer
-level: Pleno
-focus:
-  - Salesforce Development
-  - Process Automation
-  - Scalable Solutions
-  - Developer Productivity
-  - Product Thinking
-```
-
 Sou um desenvolvedor que gosta de transformar processos complexos em soluções simples, úteis e escaláveis.
 
 Minha atuação gira principalmente em torno de:
